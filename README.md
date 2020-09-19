@@ -11,6 +11,6 @@ npm start
 ## Start client app
 ```bash
 cd client
-yarn
-yarn start
+npm install
+npm start
 ```
